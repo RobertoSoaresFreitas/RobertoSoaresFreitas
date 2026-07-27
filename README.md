@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚀 **Gerente de e-Commerce | Desenvolvedor de Soluções Digitais**
+🚀 **Soluções Digitais para Negócios | Automação e Integração de Processos**
 
 </div>
 
