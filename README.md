@@ -81,26 +81,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
 Alguns projetos públicos serão disponibilizados conforme evolução.
 
 ---
+## 📅 Atividade
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSoaresFreitas&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSoaresFreitas&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Atividade GitHub
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=RobertoSoaresFreitas" />
-
-</div>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertoSoaresFreitas)
 
 ---
 
