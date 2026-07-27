@@ -35,82 +35,83 @@ Atualmente estudo e desenvolvo projetos utilizando:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,mysql,redis,prisma,docker,git,github,vscode,linux,cloudflare,wordpress" />
 </p>
  
-##  Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-<h3>🚀 Front-end</h3>
+---
+
+### 🚀 Desenvolvimento
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5" alt="HTML5"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS3" alt="CSS3"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" title="JavaScript" alt="JavaScript"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" title="TypeScript" alt="TypeScript"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" title="React" alt="React"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" title="Next.js" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" title="Tailwind CSS" alt="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" title="TailwindCSS" alt="TailwindCSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" title="Node.js" alt="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="48" title="Prisma" alt="Prisma"/>
 </p>
 
 ---
 
-### ⚙️ Backend e Dados
+### 🗄️ Dados e Infraestrutura
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</div>
-
----
-### 🔄 Controle de Versão e DevOps
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" title="PostgreSQL" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" title="MySQL" alt="MySQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" title="Redis" alt="Redis"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" title="Supabase" alt="Supabase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" title="Docker" alt="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" title="Linux" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="48" title="Cloudflare" alt="Cloudflare"/>
+</p>
 
 ---
 
-### ☁️ Infraestrutura
+### 🔄 DevOps e Ferramentas
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-
-</div>
-
----
-
-### 🛒 Plataformas e Negócios Digitais
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git" alt="Git"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub" alt="GitHub"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code" alt="VS Code"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="48" title="Vercel" alt="Vercel"/>
+</p>
 
 ---
 
+### 🛒 Plataformas, Automação e Negócios Digitais
 
-### 🤖 Automação e Marketing Digital
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mautic-4E5D94?style=for-the-badge&logo=mautic&logoColor=white"/>
-
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="48" title="WordPress" alt="WordPress"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="48" title="WooCommerce" alt="WooCommerce"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" title="Power BI" alt="Power BI"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/sap/0FAAFF" width="48" title="SAP" alt="SAP"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" title="n8n" alt="n8n"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mautic/4E5D94" width="48" title="Mautic" alt="Mautic"/>
+</p>
 
 ---
 
