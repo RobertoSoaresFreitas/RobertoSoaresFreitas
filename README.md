@@ -94,7 +94,7 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_SITE">
+<a href="https://github.com/RobertoSoaresFreitas">
 <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
