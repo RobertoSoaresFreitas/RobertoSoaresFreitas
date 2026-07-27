@@ -50,6 +50,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </div>
 
@@ -85,9 +86,9 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSoaresFreitas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSoaresFreitas&layout=compact&langs_count=8&theme=transparent"/>
 
 </div>
 
@@ -97,7 +98,7 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoSoaresFreitas&theme=transparent"/>
 
 </div>
 
