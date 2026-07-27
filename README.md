@@ -64,9 +64,13 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <div align="center"> 
  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </div> 
@@ -78,7 +82,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <div align="center"> 
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+<br />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </div>
@@ -90,7 +96,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <div align="center"> 
  
  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+ <br />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+ <br />
  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> 
  
  </div> 
@@ -102,7 +110,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <div align="center"> 
  
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
 
 </div>
@@ -114,6 +124,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <div align="center"> 
  
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<br />
 <img src="https://img.shields.io/badge/Mautic-4E5D94?style=for-the-badge&logo=mautic&logoColor=white"/>
 
 </div> 
@@ -144,7 +155,7 @@ Alguns projetos públicos serão disponibilizados conforme evolução, outros pe
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a> 
 
-<BR />
+<br />
  
 <a href="https://www.igt4.com.br/robertosfreitas/" target="_blank">
 <img src="https://img.shields.io/badge/Portfólio-2F2F2E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
