@@ -77,6 +77,16 @@ Atualmente estudo e desenvolvo projetos utilizando:
 </div>
 
 ---
+### 🤖 Automação e Marketing Digital
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mautic-4E5D94?style=for-the-badge&logo=mautic&logoColor=white"/>
+
+</div>
+
+---
 
 ## 📌 Projetos
 
