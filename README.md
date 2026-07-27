@@ -16,7 +16,6 @@ Atuo conectando **negócios, tecnologia e experiência do usuário**, desenvolve
 
 Atualmente estudo e desenvolvo projetos utilizando:
 
-- Desenvolvimento Full Stack
 - Arquitetura de aplicações web
 - E-commerce e marketplaces
 - Integração de APIs
