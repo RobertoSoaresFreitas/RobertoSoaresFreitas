@@ -177,7 +177,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="40"/>
 </td>
 
-<td align="center">
+<td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/><br>
 Power BI
 </td>
