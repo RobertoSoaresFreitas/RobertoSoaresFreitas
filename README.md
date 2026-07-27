@@ -30,6 +30,10 @@ Atualmente estudo e desenvolvo projetos utilizando:
 - Inteligência e Pesquisa em Marketing Digital
 
  ---
+
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,postgres,mysql,redis,prisma,docker,git,github,vscode,linux,cloudflare,wordpress" />
+</p>
  
 ##  Tecnologias e Ferramentas
 
