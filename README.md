@@ -177,10 +177,10 @@ Atualmente estudo e desenvolvo projetos utilizando:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="40"/>
 </td>
 
-<td>
-   <img src="https://skillicons.dev/icons?i=powerbi" />
-
-</tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="45"/><br>
+Power BI
+</td>
 </table>
 
 </div>
@@ -194,13 +194,15 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <table>  
 <tr>
  
-<td>
-    <img src="https://skillicons.dev/icons?i=n8n" />
-   </td> 
+<td align="center">
+  <img src="https://cdn.simpleicons.org/n8n" width="45"/><br>
+  n8n
+</td>
 
-<td>
-    <img src="https://skillicons.dev/icons?i=mautic" />
-   </td> 
+<td align="center">
+  <img src="https://cdn.simpleicons.org/mautic" width="45"/><br>
+  Mautic
+</td> 
 
 </tr>
 </table>
