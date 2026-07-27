@@ -135,15 +135,13 @@ Alguns projetos públicos serão disponibilizados conforme evolução, outros pe
 <div align="center">
 
 <a href="https://www.linkedin.com/in/robertosoaresfreitas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Roberto%20Soares%20Freitas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
 
+&nbsp;&nbsp;
+ 
 <a href="https://www.igt4.com.br/robertosfreitas/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-Visitar%20Site-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://img.shields.io/badge/E--mail-Enviar%20Mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
