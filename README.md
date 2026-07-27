@@ -94,6 +94,16 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 
 ---
 
+## 🔥 Atividade GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=RobertoSoaresFreitas" />
+
+</div>
+
+---
+
 ## 🔥 Atividade
 
 <div align="center">
