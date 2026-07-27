@@ -222,11 +222,11 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 Alguns projetos públicos serão disponibilizados conforme evolução, outros permanecem privados por envolverem aplicações comerciais e ambientes proprietários.
 </div>
----
+
 
 ## 📫 Contato
 
-<div align="center">
+<div>
 
 <table>
 <tr>
