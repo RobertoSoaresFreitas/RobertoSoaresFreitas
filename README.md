@@ -109,18 +109,6 @@ Atualmente estudo e desenvolvo projetos utilizando:
  </tr>
  </table>
 
- 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<br />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<br />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<br />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</div> 
 
 --- 
 
@@ -128,11 +116,31 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 <div align="center"> 
 
+<table>
+ <tr>
+
+  <td>
+   <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<br />
+  </td>
+
+  <td>
+   <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<br />
+  </td>
+
+  <td>
+   <img src="https://skillicons.dev/icons?i=css" />vscode
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </td>
+
+  <td>
+   <img src="https://skillicons.dev/icons?i=vercel" />vscode
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </td>
+ 
+ </tr>
+</table>
 
 </div>
 
