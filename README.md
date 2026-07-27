@@ -122,10 +122,20 @@ Atualmente estudo e desenvolvo projetos utilizando:
 ### 🤖 Automação e Marketing Digital
 
 <div align="center"> 
+
+<table>  
+<tr>
  
+<td>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<br />
+</td>
+
+<td>
 <img src="https://img.shields.io/badge/Mautic-4E5D94?style=for-the-badge&logo=mautic&logoColor=white"/>
+</td>
+
+</tr>
+</table>
 
 </div> 
 
@@ -168,14 +178,6 @@ Alguns projetos públicos serão disponibilizados conforme evolução, outros pe
 </table>
 
 
-<a href="https://www.linkedin.com/in/robertosoaresfreitas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
 
-<br />
- 
-<a href="https://www.igt4.com.br/robertosfreitas/" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-2F2F2E?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 </div>
