@@ -169,13 +169,19 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <tr>
  
 <td>
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<td>
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+   </td> 
 </td>
 <td>
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<td>
+    <img src="https://skillicons.dev/icons?i=woocommerce" />
+   </td> 
 </td>
 <td>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+<td>
+    <img src="https://skillicons.dev/icons?i=powerbi" />
+   </td> 
 </td>
 
 </tr>
@@ -193,12 +199,12 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <tr>
  
 <td>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-</td>
+    <img src="https://skillicons.dev/icons?i=n8n" />
+   </td> 
 
 <td>
-<img src="https://img.shields.io/badge/Mautic-4E5D94?style=for-the-badge&logo=mautic&logoColor=white"/>
-</td>
+    <img src="https://skillicons.dev/icons?i=mautic" />
+   </td> 
 
 </tr>
 </table>
