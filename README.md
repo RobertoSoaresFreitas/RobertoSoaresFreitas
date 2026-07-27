@@ -73,7 +73,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 </div> 
 
-##-
+---
 
 ### ⚙️ Backend e Dados 
 
@@ -206,7 +206,8 @@ Atualmente estudo e desenvolvo projetos utilizando:
 </div> 
 
 ---
-
+<div align="start">
+ 
 ## 📌 Projetos
 
 🔒 Atualmente desenvolvendo projetos privados envolvendo:
@@ -220,7 +221,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 - Aplicações Web Progressivas (PWA)
 
 Alguns projetos públicos serão disponibilizados conforme evolução, outros permanecem privados por envolverem aplicações comerciais e ambientes proprietários.
-
+</div>
 ---
 
 ## 📫 Contato
@@ -242,8 +243,5 @@ Alguns projetos públicos serão disponibilizados conforme evolução, outros pe
 </td>
 </tr>
 </table>
-
-
-
 
 </div>
