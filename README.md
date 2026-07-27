@@ -77,8 +77,6 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 </div>
 
-</div>
-
 ---
 
 ## 📌 Projetos
