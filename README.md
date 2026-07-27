@@ -90,7 +90,7 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 
 <div align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/robertosoaresfreitas/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
