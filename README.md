@@ -108,12 +108,22 @@ Atualmente estudo e desenvolvo projetos utilizando:
 ### 🛒 Plataformas e Negócios Digitais
 
 <div align="center"> 
+
+ <table>  
+<tr>
  
+<td>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-<br />
+</td>
+<td>
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-<br />
+</td>
+<td>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
+</td>
+
+</tr>
+</table>
 
 </div>
 
