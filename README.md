@@ -41,6 +41,10 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ### 🚀 Desenvolvimento
 
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma" />
+</p>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML5" alt="HTML5"/>
   &nbsp;
