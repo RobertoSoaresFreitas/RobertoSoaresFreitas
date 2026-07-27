@@ -128,21 +128,6 @@ Alguns projetos públicos serão disponibilizados conforme evolução, outros pe
 
 ---
 
-## 🔥 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertoSoaresFreitas&theme=transparent"/>
-
----
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobertoSoaresFreitas)
-
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="center">
