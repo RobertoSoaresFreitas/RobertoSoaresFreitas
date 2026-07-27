@@ -104,7 +104,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
  </tr>
  </table>
-
+</div>
 
 --- 
 
