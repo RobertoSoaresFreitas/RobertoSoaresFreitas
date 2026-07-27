@@ -86,9 +86,9 @@ Alguns projetos públicos serão disponibilizados conforme evolução.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSoaresFreitas&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RobertoSoaresFreitas&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSoaresFreitas&layout=compact&langs_count=8&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSoaresFreitas&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
