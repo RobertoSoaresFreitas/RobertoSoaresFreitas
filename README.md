@@ -65,12 +65,11 @@ Atualmente estudo e desenvolvo projetos utilizando:
 </td>
 
   <td>
-<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
   </td>
 
   <td>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
-  </td>
+<img src="https://skillicons.dev/icons?i=ts" />  </td>
   
 </tr>
 </table>
