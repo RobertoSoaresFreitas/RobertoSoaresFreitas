@@ -106,6 +106,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
  <img src="https://skillicons.dev/icons?i=redis" />
  </td>
 
+ </tr>
+ </table>
+
  
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <br />
