@@ -41,6 +41,10 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ### 🚀 Desenvolvimento
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html5,css3,js,ts,react,nextjs,tailwind,nodejs,postgres,mysql,redis,prisma,docker,git,github,vscode,linux,cloudflare,wordpress" />
+</p>
+
  <p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
