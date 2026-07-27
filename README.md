@@ -174,14 +174,11 @@ Atualmente estudo e desenvolvo projetos utilizando:
    </td> 
 </td>
 <td>
-<td>
-    <img src="https://skillicons.dev/icons?i=woocommerce" />
-   </td> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="40"/>
 </td>
+
 <td>
-<td>
-    <img src="https://skillicons.dev/icons?i=powerbi" />
-   </td> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
 </td>
 
 </tr>
