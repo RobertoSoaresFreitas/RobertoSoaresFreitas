@@ -2,7 +2,7 @@
 
 <div align="center">
 
-🚀 **Soluções Digitais para Negócios | Automação e Integração de Processos**
+🚀 **Gestão de e-Commerce | Desenvolvimento de Soluções Digitais | Automação de Processos**
 
 </div>
 
@@ -16,13 +16,22 @@ Atuo conectando **negócios, tecnologia e experiência do usuário**, desenvolve
 
 Atualmente estudo e desenvolvo projetos utilizando:
 
+- APIs REST e integrações
 - Arquitetura de aplicações web
 - E-commerce e marketplaces
-- Integração de APIs
 - Automação de processos digitais
+- Gestão e organização de dados
 
 ---
+## 🎓 Formação
 
+- Tecnologia em Gestão da Tecnologia da Informação
+- Gerente de e-Commerce 4.0
+- SAP R/3 Profissional
+- Inteligência e Pesquisa em Marketing Digital
+
+ ---
+ 
 ##  Tecnologias e Ferramentas
 
 ### 🚀 Front-end
@@ -49,6 +58,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 </div>
@@ -106,14 +116,15 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 🔒 Atualmente desenvolvendo projetos privados envolvendo:
 
+- Aplicações Web modernas com React e TypeScript
 - Plataformas de e-Commerce com Next.js
 - Integrações com marketplaces
 - Sistemas administrativos
 - APIs e gerenciamento de dados
 - Automação de processos
+- Aplicações Web Progressivas (PWA)
 
-Alguns projetos públicos serão disponibilizados conforme evolução.
-
+Alguns projetos públicos serão disponibilizados conforme evolução, outros permanecem privados por envolverem aplicações comerciais e ambientes proprietários.
 
 ---
 
