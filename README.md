@@ -127,12 +127,12 @@ Atualmente estudo e desenvolvo projetos utilizando:
    <img src="https://skillicons.dev/icons?i=github" />
   </td>
 
-  <td>
-   <img src="https://skillicons.dev/icons?i=vscode" />
+   <td>
+   <img src="https://skillicons.dev/icons?i=vercel" />
   </td>
 
   <td>
-   <img src="https://skillicons.dev/icons?i=vercel" />
+   <img src="https://skillicons.dev/icons?i=vscode" />
   </td>
  
  </tr>
@@ -145,16 +145,25 @@ Atualmente estudo e desenvolvo projetos utilizando:
 ### ☁️ Infraestrutura 
 
 <div align="center"> 
+ <table>
+  <tr>
+   <td>
+    <img src="https://skillicons.dev/icons?i=docker" />
+   </td>
+
+   <td>
+    <img src="https://skillicons.dev/icons?i=linux" />
+   </td>
+
+   <td>
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
+   </td>
+   
+  </tr>
+ </table> 
+</div> 
  
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
- <br />
- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
- <br />
- <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/> 
- 
- </div> 
- 
- --- 
+--- 
  
 ### 🛒 Plataformas e Negócios Digitais
 
