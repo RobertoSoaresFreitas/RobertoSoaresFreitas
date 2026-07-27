@@ -22,7 +22,6 @@ Atualmente estudo e desenvolvo projetos utilizando:
 - Automação de processos digitais
 - Gestão e organização de dados
 
----
 ## 🎓 Formação
 
 - Tecnologia em Gestão da Tecnologia da Informação
@@ -95,6 +94,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 
 </div>
 
