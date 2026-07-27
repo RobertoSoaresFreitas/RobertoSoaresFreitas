@@ -56,20 +56,21 @@ Atualmente estudo e desenvolvo projetos utilizando:
 <img src="https://skillicons.dev/icons?i=js" />
   </td>
 
+   <td>
+<img src="https://skillicons.dev/icons?i=ts" /> 
+   </td>
+
   <td>
 <img src="https://skillicons.dev/icons?i=nextjs" />
+  </td>
+  <td>
+<img src="https://skillicons.dev/icons?i=react" />
   </td>
 
 <td>
 <img src="https://skillicons.dev/icons?i=tailwind" />
 </td>
 
-  <td>
-<img src="https://skillicons.dev/icons?i=react" />
-  </td>
-
-  <td>
-<img src="https://skillicons.dev/icons?i=ts" />  </td>
   
 </tr>
 </table>
