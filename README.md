@@ -121,7 +121,6 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
   <td>
    <img src="https://skillicons.dev/icons?i=git" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </td>
 
   <td>
