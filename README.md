@@ -178,8 +178,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 </td>
 
 <td>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/>
-</td>
+   <img src="https://skillicons.dev/icons?i=powerbi" />
 
 </tr>
 </table>
