@@ -152,10 +152,6 @@ Atualmente estudo e desenvolvo projetos utilizando:
    </td>
 
    <td>
-    <img src="https://skillicons.dev/icons?i=portainer" />
-   </td> 
-
-   <td>
     <img src="https://skillicons.dev/icons?i=linux" />
    </td>
 
