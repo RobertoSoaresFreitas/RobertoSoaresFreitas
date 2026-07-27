@@ -24,9 +24,9 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
-### Front-end
+### 🚀 Front-end
 
 <div align="center">
 
@@ -42,7 +42,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ---
 
-### Backend e Dados
+### ⚙️ Backend e Dados
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 </div>
 
 ---
-### Controle de Versão e DevOps
+### 🔄 Controle de Versão e DevOps
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
 ---
 
-### Infraestrutura
+### ☁️ Infraestrutura
 
 <div align="center">
 
