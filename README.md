@@ -126,17 +126,14 @@ Atualmente estudo e desenvolvo projetos utilizando:
 
   <td>
    <img src="https://skillicons.dev/icons?i=github" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
   </td>
 
   <td>
-   <img src="https://skillicons.dev/icons?i=css" />vscode
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=vscode" />
   </td>
 
   <td>
-   <img src="https://skillicons.dev/icons?i=vercel" />vscode
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=vercel" />
   </td>
  
  </tr>
